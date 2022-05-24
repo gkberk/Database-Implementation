@@ -1,0 +1,9 @@
+animal 1
+human 1
+kitunian 1
+plant 1
+mircastely 1
+fybranite 1
+fybran 1
+sentoru 1
+bosentoru 1
